@@ -70,23 +70,25 @@ font-family: poppins, sans-serif;
 font-size: 16px;
 font-weight: bold;
 color: #444;
-width: 30%;
+width: 47%;
 box-sizing: border-box;
 line-height: 30px;
 
 }
 .button2{
     margin: 0 250px;
-    background-color:green;
-    border: 2px solid brown;
+    background-color:#30c57b;
+    border: 1px solid brown;
     border-radius: 5px;
     color:  white;
     padding: 15px 50px;
-    font-size: 14px;
-    font-weight: bold;
+    font-size: 28px;
+    font:CircularStd, sans-serif;
     cursor: pointer;
+    
 }
 .button2:hover{
     background-color: white;
     color: blue;
+    
 }
