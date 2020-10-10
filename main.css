@@ -62,3 +62,31 @@ body{
     font-family: poppins,sans-serif;
     
 }
+
+.piggymessage{
+    margin: 0 260px;
+    margin-top: 20px;
+font-family: poppins, sans-serif;
+font-size: 16px;
+font-weight: bold;
+color: #444;
+width: 30%;
+box-sizing: border-box;
+line-height: 30px;
+
+}
+.button2{
+    margin: 0 250px;
+    background-color:green;
+    border: 2px solid brown;
+    border-radius: 5px;
+    color:  white;
+    padding: 15px 50px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: white;
+    color: blue;
+}
