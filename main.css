@@ -50,3 +50,15 @@ body{
     background-color: blue;
     color: white;
 }
+
+.thebetter{
+    margin: 0 auto;
+    max-width: 980px;
+    padding: 70px 0;
+    box-sizing: border-box;
+    color:#144499;
+    font-size: 52px;
+    line-height: 50px;
+    font-family: poppins,sans-serif;
+    
+}
