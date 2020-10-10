@@ -40,7 +40,7 @@ body{
     text-align: right;
     font:  14px 'Circularstd', sans-serif;
     font-weight: bold;
-    width: ;
+    
 }
 
 .button {
@@ -99,5 +99,9 @@ line-height: 30px;
 .button2:hover{
     background-color: white;
     color: blue;
+    
+}
+
+.upperbody{
     
 }
