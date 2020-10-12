@@ -2,6 +2,8 @@ body{
     background-color: white;
     border: black;
     width: 900px;
+    padding: 0;
+    margin: 0;
      
 }
 .wholepage{
@@ -102,6 +104,9 @@ line-height: 30px;
     
 }
 
-.upperbody{
-    
+.female1{
+    position: absolute;
+    top: 120px;
+    right:680px;
+    width:300px;
 }
