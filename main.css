@@ -6,12 +6,12 @@ body{
     margin: 0;
      
 }
+
 .wholepage{
     width: 1100px;
     margin-left: auto;
     margin-right: auto;
 }
-
 
 }
 .header{
@@ -81,7 +81,7 @@ font-family: 'poppins', sans-serif;
 font-size: 20px;
 font-weight: lighterb;
 color: #444;
-width: 75%;
+width: 73%;
 box-sizing: border-box;
 line-height: 30px;
 
@@ -107,12 +107,49 @@ line-height: 30px;
 .female1{
     position: absolute;
     top: 120px;
-    right:680px;
-    width:300px;
+    right:600px;
+    width:200px;
 }
 .badge{
     margin-top: 30px;
     margin-left: 240px;
     
-    
+}
+
+.middleline{
+    margin-top:  100px;
+    position: absolute;
+    align-content: center;
+    width: 1000;
+}
+.Savesmart{
+margin-top: 400px;
+position: absolute;
+right: 700px;
+font-size: 40px;
+color: blue;
+font-family: sans-serif;
+font-weight: bold;
+
+
+}
+.piggyhelps{
+
+    margin-top: 450px;
+    position: absolute;
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+    right: 600px;
+    font-weight: bold;
+    color: #627081;
+
+}
+
+.square{
+    margin-top:600px;
+    margin-right: 20px;
+    margin-left:220px;
+    position: absolute;
+
 }
