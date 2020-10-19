@@ -6,17 +6,8 @@ body{
 }
 
 .header{
-    font-weight: bold;
-    
+    font-weight: bold;   
 }
-/* .mainheader{
-    display: flex;
-    justify-content: space-evenly;
-    flex-direction: row;
-    
-} */
-
-
 
 .logo{
     float: left;
@@ -133,5 +124,27 @@ font-weight: bold;
 .square{
     
     position: relative;
-
 } 
+.onemission{
+    padding: 200px 0 0 0;
+    color:#083e9e;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-family: bold;
+    text-align: center;
+}
+
+.growth{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.PiggyVestmessage{
+    display: block;
+    margin-top: 60px;
+    color: #627081;
+    font-family: CircularStd, sans-serif;
+    font-size: 25px;
+
+}
