@@ -166,9 +166,19 @@ font-weight: bold;
     margin-top: 20px;
     text-align: center;
 }
-.button3{
-    font: 18px;
-    color: white;
+
+.addyour{
+    margin-top: 40px;
+    font: 39px;
     text-align: center;
-    background: #144499;
+    font-weight: bold;
 }
+ .button3{
+    color: white;
+    background: #144499;
+    border-radius: 5px;
+    padding: 15px 50px;
+    font-size: 28px;
+    font: CircularStd, sans-serif;
+    cursor: pointer;
+} 
