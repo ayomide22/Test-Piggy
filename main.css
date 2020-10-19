@@ -35,7 +35,10 @@ body{
     text-align: right;
     font:  14px 'Circularstd', sans-serif;
     font-weight: bold;
-    
+      
+}
+a:link{
+    text-decoration: none;
 }
 
 .button {
