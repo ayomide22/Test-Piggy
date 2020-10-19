@@ -148,3 +148,27 @@ font-weight: bold;
     font-size: 25px;
 
 }
+.amazing{
+    padding: 200px 0 0 0;
+    color: #083e9e;
+    text-align: center;
+    font-size: 42px;
+    font-family: sans-serif;
+    font-weight: bold;   
+
+}
+
+.stories{
+    columns: #627081;
+    font: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 20px;
+    text-align: center;
+}
+.button3{
+    font: 18px;
+    color: white;
+    text-align: center;
+    background: #144499;
+}
